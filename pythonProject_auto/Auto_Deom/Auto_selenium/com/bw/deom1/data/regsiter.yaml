@@ -1,0 +1,20 @@
+-
+  username: xmx2
+  password: 123
+  repasswrod: 123
+  email:  123@qq.com
+  name: 许明雪
+  phone: 123456
+  addr: 上海
+  captcha: ABCD
+  result: 全局页面
+-
+  username: xmx3
+  password: 123
+  repasswrod: 123
+  email:  123@qq.com
+  name: 许明雪
+  phone: 123456
+  addr: 上海
+  captcha: ABC
+  result: 全局页面

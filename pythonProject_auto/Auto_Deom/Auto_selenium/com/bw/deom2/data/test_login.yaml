@@ -1,0 +1,10 @@
+-
+  username: cy
+  password: 123
+  captcha: ABCD
+  result: 购物商城
+-
+  username: myz
+  password: 123
+  captcha: ABCD
+  result: 会员登录
